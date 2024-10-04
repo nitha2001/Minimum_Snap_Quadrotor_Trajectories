@@ -16,6 +16,6 @@ This project focuses on formulating a minimum snap trajectory optimization probl
 - `minsnap.py`: Implements the minimum snap trajectory optimization, including cost and constraint definitions.
 Additional scripts and documentation for running the project and visualizing results.
  
-**Results**
+## Results
 Executed the complete optimization procedure and visualized the resulting trajectory, confirming smooth transitions between waypoints while adhering to constraints.
 
